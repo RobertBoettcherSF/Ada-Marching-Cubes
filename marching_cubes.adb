@@ -1,1 +1,1 @@
--- PLACEHOLDER will be replaced
+@file:///tmp/CONTENT_ONLY.adb
