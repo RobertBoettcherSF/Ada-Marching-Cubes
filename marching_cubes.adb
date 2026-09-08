@@ -1,0 +1,1 @@
+-- LOAD_FROM_FILE:/tmp/ADB_BODY.adb
